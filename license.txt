@@ -1,0 +1,14 @@
+Copyright 2024-2029 Stepan Hlava (Czech Republic) stepan_hlava@email.cz  
+All Rights Reserved.  
+
+This software and associated documentation files (the "Software") are the property of Stepan Hlava (Czech Republic) - git owner (https://github.com/StepanHlava/RobotCYDEyes) . Unauthorized use, reproduction, modification, or distribution of the Software, in whole or in part, is strictly prohibited without prior written consent from the copyright holder.  
+
+## Restrictions:  
+1. The Software may not be used, copied, modified, merged, published, distributed, sublicensed, or sold without explicit written permission from  Stepan Hlava (Czech Republic) - git owner (https://github.com/StepanHlava/RobotCYDEyes).  
+2. The Software may not be used for commercial purposes without prior written consent.  
+3. Reverse engineering, decompiling, or disassembling the Software is strictly prohibited.  
+
+## Disclaimer:  
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
+
+For inquiries or licensing permissions, contact: stepan_hlava@email.cz
